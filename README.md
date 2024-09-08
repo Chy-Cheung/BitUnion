@@ -1,1 +1,1 @@
-A Simple Blog of me.
+A Simple Blog about me.
